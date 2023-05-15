@@ -37,5 +37,6 @@ app.use('/api/admin', adminRoutes);
 
 
 
-
+//Video for git shortcut to upload from visual studio
+// https://www.youtube.com/watch?v=14R1mI47SOc
 
